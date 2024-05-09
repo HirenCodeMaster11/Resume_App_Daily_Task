@@ -309,3 +309,12 @@ class MyApp extends StatelessWidget {
   }
 }
 ```
+<h2 align="center">2. Drawer </h2>
+
+<h1 align="left"></h1>
+<div align="center">
+  <img height="550"  src="https://github.com/HirenCodeMaster11/resume_app_daily_task/assets/148859956/160978ac-5d38-40c7-a55a-17f1786051dc" />
+</div>
+<div align="center">
+<a href="https://github.com/HirenCodeMaster11/resume_app_daily_task/blob/master/lib/Screen/Drawer/home.dart">-> 📂 Go To Dart File 📂 <-</a>
+</div>
