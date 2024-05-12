@@ -1,20 +1,5 @@
 # resume_app_daily_task
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
 # What is List and Map ?
 ## ⚫ List :
 
@@ -317,4 +302,34 @@ class MyApp extends StatelessWidget {
 </div>
 <div align="center">
 <a href="https://github.com/HirenCodeMaster11/resume_app_daily_task/blob/master/lib/Screen/Drawer/home.dart">-> 📂 Go To Dart File 📂 <-</a>
+</div>
+
+<h2 align="center">3-1. Login Page </h2>
+
+<h1 align="left"></h1>
+
+<div align="center">
+  <img height="550"  src="https://github.com/HirenCodeMaster11/resume_app_daily_task/assets/148859956/f2e0126c-130d-40c7-8a51-70038e3822b0" />
+</div>
+<div align="center">
+<a href="https://github.com/HirenCodeMaster11/resume_app_daily_task/blob/master/lib/Screen/Login/page1.dart">-> 📂 Go To Dart File 📂 <-</a>
+</div>
+
+<h2 align="center">3-2. Login Page2 </h2>
+
+<h1 align="left"></h1>
+<div align="center">
+  <img height="550"  src="https://github.com/HirenCodeMaster11/resume_app_daily_task/assets/148859956/7b8e8303-d6f1-47f1-b0e9-3ac2af0a993b" />
+</div>
+<div align="center">
+<a href="https://github.com/HirenCodeMaster11/resume_app_daily_task/blob/master/lib/Screen/Login/page2.dart">-> 📂 Go To Dart File 📂 <-</a>
+</div>
+
+<h2 align="center">3-3. Login Page Recording </h2>
+
+<h1 align="left"></h1>
+
+<div align="center">
+ <video src="https://github.com/HirenCodeMaster11/resume_app_daily_task/assets/148859956/dcd66b37-431e-4b87-a1e4-cba9456287e4.mp4" type="video/mp4"> 
+</video>
 </div>
