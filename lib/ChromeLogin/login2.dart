@@ -150,6 +150,17 @@ class _login2State extends State<login2> {
                                   password = txtPassword.text;
                                   Navigator.of(context).pushNamed('/page2');
                                 }
+                                else{
+                                  ScaffoldMessenger.of(context).showSnackBar(
+                                    SnackBar(
+                                      content: Text('Enter the valid Password'),
+                                      action: SnackBarAction(label: 'Retry', onPressed:() {
+                                        formkey.currentState!.reset();
+                                      },),
+                                      duration: Duration(seconds: 6),
+                                    ),
+                                  );
+                                }
                               },
                               child: Container(
                                 height: height * 0.046,
