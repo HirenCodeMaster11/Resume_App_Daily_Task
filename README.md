@@ -333,3 +333,36 @@ class MyApp extends StatelessWidget {
  <video src="https://github.com/HirenCodeMaster11/resume_app_daily_task/assets/148859956/dcd66b37-431e-4b87-a1e4-cba9456287e4.mp4" type="video/mp4"> 
 </video>
 </div>
+
+
+<h2 align="center">4-1. Google Login Page </h2>
+
+<h1 align="left"></h1>
+<div align="center">
+  <img height="550"  src="https://github.com/HirenCodeMaster11/resume_app_daily_task/assets/148859956/5ebc1610-ba06-4a66-8b58-75b265ef716d" />
+</div>
+<div align="center">
+<a href="https://github.com/HirenCodeMaster11/resume_app_daily_task/blob/master/lib/ChromeLogin/login1.dart">-> 📂 Go To Dart File 📂 <-</a>
+</div>
+
+
+<h2 align="center">4-2. Google Login Page 2 </h2>
+
+<h1 align="left"></h1>
+<div align="center">
+  <img height="550"  src="https://github.com/HirenCodeMaster11/resume_app_daily_task/assets/148859956/26c7a451-bffe-4fba-9b25-dae42fe1fd78" />
+</div>
+<div align="center">
+<a href="https://github.com/HirenCodeMaster11/resume_app_daily_task/blob/master/lib/ChromeLogin/login2.dart">-> 📂 Go To Dart File 📂 <-</a>
+</div>
+
+
+<h2 align="center">4-3. Google Login Page 3 </h2>
+
+<h1 align="left"></h1>
+<div align="center">
+  <img height="550"  src="https://github.com/HirenCodeMaster11/resume_app_daily_task/assets/148859956/ad79a794-9f21-435b-9636-331a071cde4d" />
+</div>
+<div align="center">
+<a href="https://github.com/HirenCodeMaster11/resume_app_daily_task/blob/master/lib/ChromeLogin/login3.dart">-> 📂 Go To Dart File 📂 <-</a>
+</div>
