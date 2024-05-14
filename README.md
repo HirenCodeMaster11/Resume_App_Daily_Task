@@ -366,3 +366,12 @@ class MyApp extends StatelessWidget {
 <div align="center">
 <a href="https://github.com/HirenCodeMaster11/resume_app_daily_task/blob/master/lib/ChromeLogin/login3.dart">-> 📂 Go To Dart File 📂 <-</a>
 </div>
+
+<h2 align="center">4-4. Google Login Pages Recording </h2>
+
+<h1 align="left"></h1>
+<div align="center">
+ <video src="https://github.com/HirenCodeMaster11/resume_app_daily_task/assets/148859956/49d1b3f8-b9ca-4f88-8735-6bece284a6aa.mp4" type="video/mp4"> 
+</video>
+</div>
+
