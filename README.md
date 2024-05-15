@@ -375,3 +375,21 @@ class MyApp extends StatelessWidget {
 </video>
 </div>
 
+
+<h2 align="center">5-1. Image Picker </h2>
+
+<h1 align="left"></h1>
+<div align="center">
+  <img height="550"  src="https://github.com/HirenCodeMaster11/resume_app_daily_task/assets/148859956/db6bc727-8b2c-4c93-96a0-beefc90306ae" />
+</div>
+<div align="center">
+<a href="">-> 📂 Go To Dart File 📂 <-</a>
+</div>
+
+<h2 align="center"5-2. Image Picker Recording </h2>
+
+<h1 align="left"></h1>
+<div align="center">
+ <video src=".mp4" type="video/mp4"> 
+</video>
+</div>
