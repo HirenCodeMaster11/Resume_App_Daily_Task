@@ -6,6 +6,7 @@ import 'package:resume_app_daily_task/utils/Routes.dart';
 
 import 'ChromeLogin/login1.dart';
 import 'ChromeLogin/login3.dart';
+import 'ImagePicker.dart';
 
 
 void main() {
@@ -19,10 +20,9 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
+      initialRoute: '/',
       routes: {
-        '/' : (context) => login1(),
-        '/page' : (context) => login2(),
-        '/page2' : (context) => login3(),
+        '/' : (context) => ImagePick(),
       },
     );
   }
