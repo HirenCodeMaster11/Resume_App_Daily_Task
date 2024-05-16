@@ -390,6 +390,6 @@ class MyApp extends StatelessWidget {
 
 <h1 align="left"></h1>
 <div align="center">
- <video src=".mp4" type="video/mp4"> 
+ <video src="https://github.com/HirenCodeMaster11/resume_app_daily_task/assets/148859956/a748d25c-d8e1-4758-b113-637a3ed45a57.mp4" type="video/mp4"> 
 </video>
 </div>
