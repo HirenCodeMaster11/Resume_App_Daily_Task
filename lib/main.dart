@@ -6,6 +6,8 @@ import 'package:resume_app_daily_task/utils/Routes.dart';
 
 import 'ChromeLogin/login1.dart';
 import 'ChromeLogin/login3.dart';
+import 'ID CARD/idCard.dart';
+import 'ID CARD/registrationForm.dart';
 import 'ImagePicker.dart';
 
 
@@ -20,9 +22,9 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      initialRoute: '/',
       routes: {
-        '/' : (context) => ImagePick(),
+        '/' : (context) => Registration(),
+        '/id' : (context) => IdCard(),
       },
     );
   }
