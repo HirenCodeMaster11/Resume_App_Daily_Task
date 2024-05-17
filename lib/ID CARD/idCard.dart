@@ -164,12 +164,17 @@ class _IdCardState extends State<IdCard> {
                       fontSize: 22,
                       fontWeight: FontWeight.bold),
                 ),
-                Text(
-                  'hobby',
-                  style: TextStyle(
-                      color: Colors.grey.shade600,
-                      fontSize: 22,
-                      fontWeight: FontWeight.w500),
+                ...List.generate(
+                  hobbyName.length,
+                  (index) => Text(
+                    (index < hobbyName.length - 1)
+                        ? hobbyName[index] + ','
+                        : hobbyName[index],
+                    style: TextStyle(
+                        color: Colors.grey.shade600,
+                        fontSize: 22,
+                        fontWeight: FontWeight.w500),
+                  ),
                 ),
               ],
             ),

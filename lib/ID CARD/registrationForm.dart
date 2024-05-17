@@ -6,6 +6,9 @@ import 'package:flutter/widgets.dart';
 import 'package:image_picker/image_picker.dart';
 
 import '../ImagePicker.dart';
+TextEditingController txtName = TextEditingController();
+TextEditingController txtSurame = TextEditingController();
+TextEditingController txtPhone = TextEditingController();
 
 class Registration extends StatefulWidget {
   const Registration({super.key});
@@ -20,9 +23,7 @@ File? file;
 class _RegistrationState extends State<Registration> {
   @override
   Widget build(BuildContext context) {
-    TextEditingController txtName = TextEditingController();
-    TextEditingController txtSurame = TextEditingController();
-    TextEditingController txtPhone = TextEditingController();
+
 
     GlobalKey<FormState> formKey = GlobalKey();
     return Scaffold(
@@ -34,6 +35,7 @@ class _RegistrationState extends State<Registration> {
           style: TextStyle(
               color: Colors.white, fontSize: 24, fontWeight: FontWeight.w500),
         ),
+        leading: Icon(Icons.menu,color: Colors.white,),
       ),
       body: Form(
         key: formKey,
@@ -160,6 +162,14 @@ class _RegistrationState extends State<Registration> {
                       onChanged: (value) {
                         setState(() {
                           hobby[0] = value!;
+                          if(value == true)
+                          {
+                            hobbyName.add('Reading');
+                          }
+                          else
+                          {
+                            hobbyName.remove('Reading');
+                          }
                         });
                       },
                     ),
@@ -173,6 +183,14 @@ class _RegistrationState extends State<Registration> {
                       onChanged: (value) {
                         setState(() {
                           hobby[1] = value!;
+                          if(value == true)
+                          {
+                            hobbyName.add('Playing');
+                          }
+                          else
+                          {
+                            hobbyName.remove('Playing');
+                          }
                         });
                       },
                     ),
@@ -186,6 +204,14 @@ class _RegistrationState extends State<Registration> {
                       onChanged: (value) {
                         setState(() {
                           hobby[2] = value!;
+                          if(value == true)
+                            {
+                              hobbyName.add('Writing');
+                            }
+                          else
+                            {
+                              hobbyName.remove('Writing');
+                            }
                         });
                       },
                     ),
@@ -337,3 +363,4 @@ String surname = '';
 String phone = '';
 String Hobby = '';
 String Gender = '';
+List hobbyName = [];
