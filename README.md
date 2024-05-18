@@ -417,10 +417,41 @@ class MyApp extends StatelessWidget {
 <a href="https://github.com/HirenCodeMaster11/resume_app_daily_task/blob/master/lib/ID%20CARD/idCard.dart">-> 📂 Go To Dart File 📂 <-</a>
 </div>
   
-<h2 align="center"5-2. Image Picker Recording </h2>
+<h2 align="center"6-3. Id Card  Recording </h2>
 
 <h1 align="left"></h1>
 <div align="center">
  <video src="https://github.com/HirenCodeMaster11/resume_app_daily_task/assets/148859956/d623dbc6-445c-4db0-8c41-a570e61b8a41.mp4" type="video/mp4"> 
+</video>
+</div>
+
+
+<h2 align="center">7-1. Dynamic TextField </h2>
+
+<h1 align="left"></h1>
+<div align="center">
+  <img height="550"  src="https://github.com/HirenCodeMaster11/resume_app_daily_task/assets/148859956/bd48f95c-e3e8-4afb-a10f-fc3322c0bdf7" />
+</div>
+<div align="center">
+<a href="">-> 📂 Go To Dart File 📂 <-</a>
+</div>
+
+
+  <h2 align="center">7-2. Skills </h2>
+
+<h1 align="left"></h1>
+<div align="center">
+  <img height="550"  src="https://github.com/HirenCodeMaster11/resume_app_daily_task/assets/148859956/4cb2c89f-227b-4d6e-b9a7-970661cf7f10" />
+</div>
+<div align="center">
+<a href="">-> 📂 Go To Dart File 📂 <-</a>
+</div>
+
+  
+<h2 align="center"6-3. Skills Recording </h2>
+
+<h1 align="left"></h1>
+<div align="center">
+ <video src=".mp4" type="video/mp4"> 
 </video>
 </div>
