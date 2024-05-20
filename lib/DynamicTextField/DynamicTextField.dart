@@ -13,7 +13,7 @@ class _DynamicTextFieldState extends State<DynamicTextField> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
+        appBar: AppBar(
         leading: Icon(Icons.menu),
         centerTitle: true,
         title: Text('Dynamic TextField',style: TextStyle(fontWeight: FontWeight.w500,fontSize: 24),),

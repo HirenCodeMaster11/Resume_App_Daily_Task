@@ -34,7 +34,9 @@ class _SkillState extends State<Skill> {
               children: [
                 Text(
                   skills,
-                  style: TextStyle(fontSize: 25, fontWeight: FontWeight.w500),
+                  style: TextStyle(fontSize: 25
+
+                      , fontWeight: FontWeight.w500),
                 ),
               ],
             )
