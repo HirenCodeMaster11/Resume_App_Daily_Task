@@ -8,6 +8,7 @@ import 'package:resume_app_daily_task/utils/Routes.dart';
 
 import 'ChromeLogin/login1.dart';
 import 'ChromeLogin/login3.dart';
+import 'Dialogue box/simple.dart';
 import 'DynamicTextField/DynamicTextField.dart';
 import 'DynamicTextField/SkillPrint.dart';
 import 'ID CARD/idCard.dart';
@@ -27,11 +28,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       routes: {
-        // '/' : (context) => DynamicTextField(),
-        // '/skill' : (context) => Skill(),
-
-        '/' : (context) => InvoiceScreen(),
-        'pdf' : (context) => PdfScreen(),
+        '/' : (context) => Simple(),
       },
     );
   }
