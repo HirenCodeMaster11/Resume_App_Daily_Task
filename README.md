@@ -455,3 +455,32 @@ class MyApp extends StatelessWidget {
  <video src="https://github.com/HirenCodeMaster11/resume_app_daily_task/assets/148859956/2ae40a64-95b0-467a-bf76-41976b7de26c.mp4" type="video/mp4"> 
 </video>
 </div>
+
+
+ <h2 align="center">8. Simple Dialog Box </h2>
+
+<h1 align="left"></h1>
+<div align="center">
+  <img height="550"  src="https://github.com/HirenCodeMaster11/resume_app_daily_task/assets/148859956/468917b9-cae2-46ee-8387-d3e00df71720" />
+</div>
+<div align="center">
+<a href="https://github.com/HirenCodeMaster11/resume_app_daily_task/blob/master/lib/Dialogue%20box/simple.dart">-> 📂 Go To Dart File 📂 <-</a>
+</div>
+
+<h2 align="center">8. FullScreen Dialog Box </h2>
+
+<h1 align="left"></h1>
+<div align="center">
+  <img height="550"  src="https://github.com/HirenCodeMaster11/resume_app_daily_task/assets/148859956/a65e4823-7c9a-413c-862c-2def4f242f2f" />
+</div>
+<div align="center">
+<a href="https://github.com/HirenCodeMaster11/resume_app_daily_task/blob/master/lib/Dialogue%20box/simple.dart">-> 📂 Go To Dart File 📂 <-</a>
+</div>
+  
+<h2 align="center"6-3. Skills Recording </h2>
+
+<h1 align="left"></h1>
+<div align="center">
+ <video src="https://github.com/HirenCodeMaster11/resume_app_daily_task/assets/148859956/260a2b90-3e94-4ca1-b357-1370dca42551.mp4" type="video/mp4"> 
+</video>
+</div>
