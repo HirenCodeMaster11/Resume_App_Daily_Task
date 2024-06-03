@@ -477,7 +477,7 @@ class MyApp extends StatelessWidget {
 <a href="https://github.com/HirenCodeMaster11/resume_app_daily_task/blob/master/lib/Dialogue%20box/simple.dart">-> 📂 Go To Dart File 📂 <-</a>
 </div>
   
-<h2 align="center"6-3. Skills Recording </h2>
+<h2 align="center">6-3. Skills Recording </h2>
 
 <h1 align="left"></h1>
 <div align="center">
